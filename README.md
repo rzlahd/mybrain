@@ -1,3 +1,3 @@
-read this before using all this materials [here](https://github.com/rzlahd/mybrain/tree/main?tab=MIT-1-ov-file)
+READ MIT license before using all this materials
 # mybrain
 close mechine code
