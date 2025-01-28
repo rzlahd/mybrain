@@ -1,3 +1,3 @@
 Read MIT license before using all this materials
-# mybrain
+# brain
 close mechine code
