@@ -1,3 +1,3 @@
-READ MIT license before using all this materials
+Read MIT license before using all this materials
 # mybrain
 close mechine code
